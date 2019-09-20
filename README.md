@@ -10,3 +10,11 @@ java web project doc
 
 ## leetcode
 todo 链接到项目
+
+
+## todo hive
+hive函数使用，解析json
+https://www.cnblogs.com/biehongli/p/7699578.html
+```
+ get_json_object(data, "$.key1.key2")
+```
