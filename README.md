@@ -13,8 +13,15 @@ todo 链接到项目
 
 
 ## todo hive
-hive函数使用，解析json
-https://www.cnblogs.com/biehongli/p/7699578.html
+hive函数使用，解析json [hive参考语法](https://www.cnblogs.com/biehongli/p/7699578.html)
+
 ```
  get_json_object(data, "$.key1.key2")
 ```
+
+
+## todo 正则表达式
+[正则表达式积累](https://www.runoob.com/regexp/regexp-syntax.html)
+
+## todo markdown语法
+插入链接与链接语法
